@@ -1,0 +1,8 @@
+5;Colleen L. Williams;Switzerland;19;2;2022;0;2022-05-30;333.0
+4;Darryl A. Daniels;New Zealand;19;1;2022;0;2022-05-30;30.0
+8;John Y. Ford;USA;22;3;2019;0;2022-05-30;500.0
+6;Kevin D. Hall;German;26;5;2019;0;2022-05-30;0.0
+10;Michael M. Serna;Italy;25;3;2015;0;2022-05-30;0.0
+7;Ronald M. Jones;Iceland;22;2;2021;0;2022-05-30;0.0
+3;Sherri T. Cornwell;Australian;20;3;2020;0;2022-05-30;22.3
+9;Willis S. Davidson;United States;18;1;2022;0;2022-05-30;1000.0
